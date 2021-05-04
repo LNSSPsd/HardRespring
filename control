@@ -1,0 +1,9 @@
+Package: com.lns.hardrespring
+Name: HardRespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Force respring with hardware buttons.
+Maintainer: Ruphane
+Author: Ruphane
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), uikittools
